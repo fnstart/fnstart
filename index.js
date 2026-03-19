@@ -9,25 +9,24 @@ async function generateCard() {
     <div style="
       width: 800px;
       height: 80px;
-      background: #0d1117;
+      background: #2d3f59ff;
       border-radius: 15px;
       display: flex;
       align-items: center;
       justify-content: center;
       gap: 12px;
       color: white;
-      font-family: Roboto, sans-serif;  /* Match the font name below */
-      font-weight: 600;
+      font-family: Roboto, sans-serif;
+      font-weight: 800;
       font-size: 18px;
       padding: 0 20px;
+      /* Glow effect - multiple layers for depth */
+      box-shadow: 
+        0 0 20px rgba(255,255,255,0.3),
+        0 0 40px rgba(45, 63, 89, 0.6),
+        0 0 60px rgba(45, 63, 89, 0.4);
     ">
-      <span>Hello Test</span>
-      <img width="20" height="20" src="./files/C++lang.png?raw=true" />
-      <img width="20" height="20" src="./files/Cslang.png?raw=true" />
-      <img width="20" height="20" src="./files/Rustlang.png?raw=true" />
-      <img width="20" height="20" src="./files/Javascriptlang.png?raw=true" />
-      <img width="20" height="20" src="./files/Typescriptlang.png?raw=true" />
-      <img width="20" height="20" src="./files/Pythonlang.png?raw=true" />
+      <span>blacksmith(@fnstart)</span>
     </div>
   `;
 
