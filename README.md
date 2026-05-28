@@ -1,12 +1,6 @@
-<p align="center">
-    Blacksmith
-</p>
+<p align="center">Blacksmith</p>
 
-<br>
-
-<p align="center">
-    Framework Design • System Architecture • Codebase Scalability
-</p>
+<p align="center">Framework Design • System Architecture • Codebase Scalability</p>
 
 <hr>
 
