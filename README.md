@@ -38,3 +38,20 @@
   <img src="files/Expert.png" width="100%" />
 </p>
 <hr>
+<p align="center">
+  <img src="files/Figma.png" width="100%" />
+</p>
+<p align="center">
+  <img src="files/Zed Editor.png" width="100%" />
+</p>
+<p align="center">
+  <img src="files/GitHub.png" width="100%" />
+</p>
+<hr>
+<p align="center">
+  <img src="files/Windows.png" width="100%" />
+</p>
+<p align="center">
+  <img src="files/Arch Linux.png" width="100%" />
+</p>
+<hr>
