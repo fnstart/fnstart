@@ -1,7 +1,14 @@
 <p align="center">
+    Blacksmith
+</p>
+---
+<p align="center">
+    Framework Design • System Architecture • Codebase Scalability
+</p>
+---
+<p align="center">
   <img src="files/Luau.png" width="100%" />
 </p>
-<sub>&nbsp;</sub>
 <p align="center">
   <img src="files/VueJS.png" width="100%" />
 </p>
