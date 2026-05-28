@@ -1,0 +1,17 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "satori": "^0.25.0",
+    "satori-html": "^0.3.2"
+  }
+}

@@ -1,0 +1,1 @@
+<img src="./page.svg?raw=true" alt="Page" width="800" height="80">
