@@ -1,11 +1,15 @@
 <p align="center">
     Blacksmith
 </p>
----
+
+<br>
+
 <p align="center">
     Framework Design • System Architecture • Codebase Scalability
 </p>
----
+
+<hr>
+
 <p align="center">
   <img src="files/Luau.png" width="100%" />
 </p>
