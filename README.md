@@ -54,4 +54,7 @@
 <p align="center">
   <img src="files/Arch Linux.png" width="100%" />
 </p>
+<p align="center">
+  <img src="files/Ubuntu.png" width="100%" />
+</p>
 <hr>
